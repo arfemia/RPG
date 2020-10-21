@@ -1,0 +1,185 @@
+{
+    "weapons" : {
+        "sword" : {
+            "data" : {
+                "name" : "sword"
+            },
+            "count" : 3
+        },
+
+        "axe" : {
+            "data" : {
+                "name" : "axe"
+            },
+            "count" : 5
+        },
+
+        "staff" : {
+            "data" : {
+                "name": "staff"
+            },
+            "count" : 1
+        },
+
+        "battleaxe" : {
+            "data" : {
+                "name" : "battleaxe"
+            },
+            "count" : 2
+        },
+
+        "longsword" : {
+            "data" : {
+                "name" : "longsword"
+            },
+            "count" : 2
+        },
+
+        "sharpaxe" : {
+            "data" : {
+                "name" : "sharpaxe"
+            },
+            "count" : 20
+        },
+
+        "greatsword" : {
+            "data" : {
+                "name" : "greatsword"
+            },
+            "count" : 7
+        },
+
+        "smallaxe" : {
+            "data" : {
+                "name" : "smallaxe"
+            },
+            "count" : 2
+        },
+
+        "beatensword" : {
+            "data" : {
+                "name" : "beatensword"
+            },
+            "count" : 2
+        },
+
+        "dullaxe" : {
+            "data" : {
+                "name" : "dullaxe"
+            },
+            "count" : 20
+        },
+
+        "knife" : {
+            "data" : {
+                "name" : "knife"
+            },
+            "count" : 7
+        },
+
+        "bow" : {
+            "data" : {
+                "name" : "bow"
+            },
+            "count" : 2
+        },
+        "staffx" : {
+            "data" : {
+                "name": "staffx"
+            },
+            "count" : 1
+        },
+
+        "battleaxex" : {
+            "data" : {
+                "name" : "battleaxex"
+            },
+            "count" : 2
+        },
+
+        "longswordx" : {
+            "data" : {
+                "name" : "longswordx"
+            },
+            "count" : 2
+        },
+
+        "sharpaxex" : {
+            "data" : {
+                "name" : "sharpaxex"
+            },
+            "count" : 20
+        },
+
+        "greatswordx" : {
+            "data" : {
+                "name" : "greatswordx"
+            },
+            "count" : 7
+        },
+
+        "smallaxex" : {
+            "data" : {
+                "name" : "smallaxex"
+            },
+            "count" : 2
+        },
+
+        "beatenswordx" : {
+            "data" : {
+                "name" : "beatenswordx"
+            },
+            "count" : 2
+        },
+
+        "dullaxex" : {
+            "data" : {
+                "name" : "dullaxex"
+            },
+            "count" : 20
+        },
+
+        "knifex" : {
+            "data" : {
+                "name" : "knifex"
+            },
+            "count" : 7
+        },
+
+        "bowx" : {
+            "data" : {
+                "name" : "bowx"
+            },
+            "count" : 2
+        },
+
+        "dullaxexy" : {
+            "data" : {
+                "name" : "dullaxex"
+            },
+            "count" : 20
+        },
+
+        "knifexy" : {
+            "data" : {
+                "name" : "knifex"
+            },
+            "count" : 7
+        },
+
+        "bowxy" : {
+            "data" : {
+                "name" : "bowx"
+            },
+            "count" : 2
+        }
+    },
+
+    "armor" : {},
+
+    "consumables" : {},
+
+    "keyItems" : {}
+
+
+}

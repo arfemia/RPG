@@ -1,0 +1,42 @@
+{
+    "test" :
+    {
+        "spawn" : {"x" : 14, "y" : 17},
+        "paper": 0,
+        "parallax": 1,
+        "doors" : [
+            {
+                "otherSide" : {
+                    "map" : "inside",
+                    "doorID" : 1,
+                    "x" : 6,
+                    "y" : 11,
+                    "lastDir" : "up"
+                }
+ 
+            }
+            
+        ],
+        "entities" : []
+    },
+
+    "inside" :
+    {
+       "spawn" : {"x" : 4, "y" : 4},
+       "paper": 0,
+       "parallax": 1,
+       "doors" : [
+           {
+               "otherSide" : {
+                   "map" : "test",
+                   "doorID" : 1,
+                   "x" : 14,
+                   "y" : 15,
+                   "lastDir" : "down"
+               }
+
+           }
+       ],
+       "entities" : []
+    }
+}
